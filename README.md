@@ -1,4 +1,4 @@
-<b>Strings Edit</b>
+<H2>Strings Edit</H2>
 
 <p>The package Strings_Edit provides I/O facilities. The following I/O items are supported by the package:</p>
 <ul>
